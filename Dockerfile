@@ -28,4 +28,4 @@ RUN apt-get update && \
 COPY . .
 
 # Run the script
-CMD ["python", "your_script_name.py"]
+CMD ["python", "main.py"]
