@@ -1,0 +1,4 @@
+selenium
+webdriver-manager
+2captcha-python
+python-dotenv
